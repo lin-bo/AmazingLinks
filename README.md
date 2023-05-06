@@ -8,3 +8,4 @@
 
 ## Other Tips
 - [Awesome tips from Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips) (CS)
+- [Managing your advisors](https://greatresearch.org/2013/08/14/managing-your-advisor/)
