@@ -4,7 +4,7 @@
 ## Academic Job Market
 - [Kira Goldner](https://www.kiragoldner.com/blog/job-market.html) (CS & OR markets)
 - [Nikhil Garg](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf) (OR & B-School)
-- [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf)(OR & RM)
+- [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf) (OR & RM)
 
 
 ## PhD Survival Guide
