@@ -13,8 +13,9 @@
 
 
 ## PhD Survival Guide
-- [Awesome tips from Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips) (CS)
+- [Awesome tips by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips) (CS)
 - [Managing your advisors](https://greatresearch.org/2013/08/14/managing-your-advisor/)
+- [Student Guide by Jimmy Lin](https://github.com/lintool/guide)
 
 ## Life
 - [Chef Knives Rated](https://www.cookingforengineers.com/article/129/Chefs-Knives-Rated)
