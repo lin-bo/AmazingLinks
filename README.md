@@ -7,7 +7,7 @@
 - [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf) (OR & RM)
 
 
-## Careers in Industry
+## Industry Career Tips
 - [How to succeed at a tech internship](https://www.linkedin.com/pulse/how-succeed-tech-internship-markell-baldwin/) (engineering-focused)
 - [How to intern](https://twitter.com/jbhuang0604/status/1505734716657438724) (research focused)
 
