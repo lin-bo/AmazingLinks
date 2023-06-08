@@ -15,7 +15,7 @@
 ### PhD Survival Guide
 - [Awesome tips by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips) (CS)
 - [Managing your advisors](https://greatresearch.org/2013/08/14/managing-your-advisor/)
-- [Student Guide by Jimmy Lin](https://github.com/lintool/guide)
+- [Student guide by Jimmy Lin](https://github.com/lintool/guide)
 - [Cultivating your research taste](https://greatresearch.org/2013/09/13/cultivating-your-research-taste/)
 
 ### Life
