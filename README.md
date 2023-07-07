@@ -18,6 +18,7 @@
 - [Student guide by Jimmy Lin](https://github.com/lintool/guide)
 - [Cultivating your research taste](https://greatresearch.org/2013/09/13/cultivating-your-research-taste/)
 - [How to write math](https://www.mit.edu/~dimitrib/Ten_Rules.pdf)
+- [The elements of style](How do the direction wise signals) (general writing guide)
 
 ### Life
 - [Chef Knives Rated](https://www.cookingforengineers.com/article/129/Chefs-Knives-Rated)
