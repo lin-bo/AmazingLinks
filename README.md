@@ -21,5 +21,10 @@
 - [How to write math](https://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 - [The elements of style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) (general writing guide)
 
+### Interesting applications of linear programming
+- [Recommender system](https://drive.google.com/file/d/1Kbw7l-ZWYOPpsXJl0243-DyE5JXAQRus/view)
+- [Video stablization](https://ai.googleblog.com/2016/06/motion-stills-create-beautiful-gifs.html)
+- [Optimizing push notifications](https://www.uber.com/en-CA/blog/how-uber-optimizes-push-notifications-using-ml/)
+
 ### Life
 - [Chef Knives Rated](https://www.cookingforengineers.com/article/129/Chefs-Knives-Rated)
