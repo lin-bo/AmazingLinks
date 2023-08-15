@@ -5,6 +5,7 @@
 - [Kira Goldner](https://www.kiragoldner.com/blog/job-market.html) (CS & OR markets)
 - [Nikhil Garg](https://gargnikhil.com/files/NikhilGarg_JobMarketAdvice.pdf) (OR & B-School)
 - [Renyu Zhang](https://rphilipzhang.github.io/rphilipzhang/Reflection_OM_Job_Market_Philip_Zhang.pdf) (OR & RM)
+- [Ian Zhu](https://www.ianyzhu.com/_files/ugd/cf04f2_0c9f9843a42141c59cb7048c6eabc340.pdf) (OR & OM)
 - [Terence Tao](https://terrytao.wordpress.com/career-advice/) (math, from primary school to postdoc)
 
 
