@@ -24,7 +24,7 @@
 
 ### Interesting applications of linear programming
 - [Recommender system](https://drive.google.com/file/d/1Kbw7l-ZWYOPpsXJl0243-DyE5JXAQRus/view)
-- [Video stablization](https://ai.googleblog.com/2016/06/motion-stills-create-beautiful-gifs.html)
+- [Video stablization](https://ai.googleblog.com/2016/06/motion-stills-create-beautiful-gifs.html) [[Paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/37041.pdf)
 - [Optimizing push notifications](https://www.uber.com/en-CA/blog/how-uber-optimizes-push-notifications-using-ml/)
 
 ### Life
